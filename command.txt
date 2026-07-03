@@ -1,7 +1,7 @@
 
-git init
-git add .
-git commit -m "first commit"
+git init (one time each project to start git)
+git add .  (it will need everytime to add something)
+git commit -m "first commit" (everytime i commit)
 git branch -M main
 git remote add origin https://github.com/mdkhairulashik/Practice-git.git
 git push -u origin main
